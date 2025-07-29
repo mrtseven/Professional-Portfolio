@@ -14,11 +14,11 @@
 <p align="center"> 
     <br />&#10023;
     <a href="#Quick-Start">Quick Start</a>   &#10023;    
-    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant/issues">Report Bug</a>   &#10023;
+    <a href="https://github.com/mrtseven/Professional-Portfolio/issues">Report Bug</a>   &#10023;
     <a href="#Contact">Author</a>&#10023;
   </p>
   
-  <h3 align="center"><a href="https://little-lemon-restaurant-sumit-sharma-02.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
+  <h3 align="center"><a href="https://professional-portfolio-mrt.vercel.app/en/"><strong>« Try the demo here »</strong></a></h3>
 
   <p align="justify"> 
     A professional theme for personal websites, portfolios and resumes. This website has very advanced systems. Including a bilingual Persian/English system that can be expanded to multiple languages, with two dark and light modes. Simple and minimal design. Using professional GSAP and Framer Motion animations, and a portfolio carousel and animated gallery.
@@ -52,8 +52,8 @@ npm run dev
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/MohammadReza_tabari_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma002/)
-[![Github](https://img.shields.io/badge/Mohammad_Reza_Tabari_Github-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sumit-sharma-02/)
+[![linkedin](https://img.shields.io/badge/MohammadReza_tabari_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtseven/)
+[![Github](https://img.shields.io/badge/Mohammad_Reza_Tabari_Github-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/mrtseven/)
 
 ## Show your support
 
