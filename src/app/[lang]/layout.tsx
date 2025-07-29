@@ -4,7 +4,6 @@ import React from "react";
 import '@/assets/css/main.css'
 import '@/assets/css/bootstrap.css'
 import '@/assets/css/fonts.css'
-import reportWebVitals from "@/provider/reportWebVitals";
 
 export const metadata = {
     title: {
